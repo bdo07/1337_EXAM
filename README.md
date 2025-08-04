@@ -1,6 +1,4 @@
-# Welcome to Piscine Experience August 2021!
-![HOLY GRAPH](RANDOM/README%20CONTENT/Holy%20Graph.png?raw=true)
-
+ 
 In this repository, I shared everything I have done during the 28 days of 1337 piscine.
 
 # Things to consider
