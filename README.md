@@ -30,5 +30,5 @@ You can take some ideas from what we've done. Or, you may also want to check our
 # My Scores
 ![Scores img.](/RANDOM/README%20CONTENT/Scores.png?raw=true)
 
-# Contact
-[@osmoussao](https://twitter.com/osmoussao)
+ 
+ 
